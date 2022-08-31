@@ -1,6 +1,7 @@
-# Supplementary code.
+# Supplementary code
+
 ## Information
-This repository Contains javascript and python code for replicating analysis in "Exploring machine learning techniques to predict deforestation to enhance the decision‐making of road construction projects" (Larrea-Gallegos and Vazquez-Rowe, 2022).
+This repository Contains javascript and python code for replicating analysis in "Exploring machine learning techniques to predict deforestation to enhance the decision‐making of road construction projects" [(Larrea-Gallegos and Vazquez-Rowe, 2022)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.13185).
 
 ## Instructions
 For running data processing, random forest model training and visualization:  
@@ -9,3 +10,8 @@ For running data processing, random forest model training and visualization:
 For training and prediction of Neural Network models: 
 - Jupyter notebooks contain the steps and procedures of the whole experimentation, import the repository in a google Colab session [ [link] ](https://colab.research.google.com/) to avoid dependancy issues.
 - A Google Drive verification step is requiered for exporting and downloading.
+
+
+## References
+
+Larrea‐Gallegos, G., & Vázquez‐Rowe, I. (2022). Exploring machine learning techniques to predict deforestation to enhance the decision‐making of road construction projects. Journal of Industrial Ecology, 26(1), 225-239.
